@@ -1,3 +1,3 @@
-# Auth-page
+# Login-Signup Authentication Pages 
 
-Это вёрстка красивой странички авторизации
+A simple HTML/CSS/JS project with login, signup, and local storage.
